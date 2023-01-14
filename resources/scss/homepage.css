@@ -1,10 +1,21 @@
-.comics_page_container{
-    padding-top: 100px;
-}
-.comics_container{
-    /* padding: 50px 100px; */
+.my_bg_color{
     background-color: black;
 }
+.comics_page_container{
+    padding-top: 50px;
+    position: relative;
+    background-color: black;
+}
+.homepage_target{
+    display: inline-block;
+    background-color: blue;
+    padding: 10px 20px;
+    color: white;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+}
+/* COMICS CONTAINER */
 /* CARD */
 .comics_box{
     color: white;

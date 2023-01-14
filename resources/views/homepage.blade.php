@@ -1,7 +1,12 @@
 @extends('layout')
 
 @section('homepage_content')
+<section class="my_bg_color">
     <div class="container comics_page_container">
+
+        <div class="homepage_target">
+            <h4>CURRENT SERIES</h4>
+        </div>
 
         <div class="comics_container">
             <div class="row justify-content-around">
@@ -22,4 +27,5 @@
         </div>
         
     </div>
+</section>
 @endsection
