@@ -16,7 +16,9 @@
 </head>
 
 <body>
-<h1>Welcome</h1>
+    @include("partials/header")
+    <h1>Welcome</h1>
+    @include("partials/footer")
 </body>
 
 </html>
