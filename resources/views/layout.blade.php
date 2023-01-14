@@ -17,7 +17,7 @@
 
 <body>
     @include("partials/header")
-    <h1>Welcome</h1>
+    @yield('homepage_content')
     @include("partials/footer")
 </body>
 

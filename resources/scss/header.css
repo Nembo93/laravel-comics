@@ -41,7 +41,9 @@
 }
 .search{
     border: none;
-    /* background-color: transparent; */
+    background-color: transparent;
+    font-size: 14px;
+    color: gray;
 }
 .search_input{
     width: 70%;
