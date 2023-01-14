@@ -1,3 +1,11 @@
-.foo{
-    color: green;
+.footer_top{
+    background-color: blue;
+    padding: 20px 200px;
+}
+.footer_top_link_box{
+    display: flex;
+    justify-content: space-between;
+}
+.footer_top_link_card{
+    /* width: 50px; */
 }
