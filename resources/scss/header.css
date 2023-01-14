@@ -1,5 +1,6 @@
 .header_container{
     background-image: url("../img/jumbotron.jpg");
+    padding-bottom: 250px;
 }
 /* HEADER BAT TOP */
 .header_bar_top{
@@ -25,23 +26,25 @@
 .header_bar_nav .col-1 a{
     text-decoration: none;
     font-size: 12px;
+    color: gray;
 }
 .header_bar_nav .col-1{
     text-decoration: none;
     text-align: center;
     font-size: 12px;
 }
-.nav_bar{
-    /* height: 100%; */
+/* SEARCH BAR */
+.search_bar{
+    border-bottom: 2px solid blue;
+    text-align: end;
+    width: 70%;
 }
 .search{
     border: none;
     /* background-color: transparent; */
 }
 .search_input{
-    width: 100px;
-    background-color: lightblue;
-    display: inline-block;
+    width: 70%;
     text-align: end;
 } 
 

@@ -1,5 +1,4 @@
 <div class="header_container">
-    <h1 class="red">Header</h1>
     <div class="header_bar">
         <div class="header_bar_top">
             <a href="">DC POWER VISA</a>
@@ -12,39 +11,39 @@
             <div class="col-8">
                 <div class="row justify-content-between nav_bar">
                     <div class="col-1">
-                        <a href="">CHARACTERS</a>
+                        <a href=""><strong>CHARACHTERS</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">COMICS</a>
+                        <a href=""><strong>COMICS</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">MOVIES</a>
+                        <a href=""><strong>MOVIES</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">TV</a>
+                        <a href=""><strong>TV</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">GAMES</a>
+                        <a href=""><strong>GAMES</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">COLLECTIBLES</a>
+                        <a href=""><strong>COLLECTIBLE</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">VIDEOS</a>
+                        <a href=""><strong>VIDEOS</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">FANS</a>
+                        <a href=""><strong>FANS</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">NEWS</a>
+                        <a href=""><strong>NEWS</strong></a>
                     </div>
                     <div class="col-1">
-                        <a href="">SHOP</a>
+                        <a href=""><strong>SHOP</strong></a>
                     </div>
                 </div>
             </div>
             <div class="col-2">
-                <div>
+                <div class="search_bar">
                     <input type="text" placeholder="Search" class="search search_input">
                     <button class="search"><i class="fa-solid fa-magnifying-glass"></i></button>
                 </div>
