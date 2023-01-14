@@ -1,0 +1,30 @@
+.comics_page_container{
+    padding-top: 100px;
+}
+.comics_container{
+    /* padding: 50px 100px; */
+    background-color: black;
+}
+/* CARD */
+.comics_box{
+    color: white;
+}
+.comics_img_box{
+    width: 100px;
+}
+.comics_img_box img{
+    display: block;
+    width: 150px;
+    height: 150px;
+}
+.load_button_box{
+    margin: auto;
+    text-align: center;
+    padding: 20px 0px;
+}
+.button{
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 5px 40px;
+}
