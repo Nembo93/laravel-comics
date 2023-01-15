@@ -1,6 +1,6 @@
 /* FOOTER TOP */
 .footer_top{
-    background-color: blue;
+    background-color: var(--blue);
     padding: 20px 200px;
 }
 .footer_top_link_box{
@@ -53,4 +53,33 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: center;
+}
+
+/* FOOTER BOTTOM */
+.footer_bottom{
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+.footer_bottom_col{
+    width: 50%;
+    text-align: center;
+    padding: 20px 0;
+}
+.second_button{
+    border: 1px solid var(--blue);
+    padding: 5px 20px;
+    color: white;
+    background-color: transparent;
+}
+
+.footer_bottom_col_dx h6{
+    color: var(--blue);
+    display: inline;
+    margin-right: 10px;
+}
+.footer_bottom_col_dx img{
+    width: 30px;
+    display: inline-block;
+    margin-left: 10px;
 }

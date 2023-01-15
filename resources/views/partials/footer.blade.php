@@ -85,6 +85,18 @@
     </div>
 
     {{-- FOOTER BOTTOM --}}
-    <div class="footer_bottom"></div>
+    <div class="footer_bottom">
+        <div class="footer_bottom_col">
+            <button class="second_button">SIGN-UP NOW!</button>
+        </div>
+        <div class="footer_bottom_col footer_bottom_col_dx">
+            <h6>FOLLOW US</h6>
+            <a href=""><img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt=""></a>
+            <a href=""><img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt=""></a>
+            <a href=""><img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt=""></a>
+            <a href=""><img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt=""></a>
+            <a href=""><img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt=""></a>
+        </div>
+    </div>
 
 </section>

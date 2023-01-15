@@ -4,7 +4,7 @@
 }
 /* HEADER BAT TOP */
 .header_bar_top{
-    background-color: blue;
+    background-color: var(--blue);
     text-align: right;
     padding-right: 200px;
 }
@@ -35,7 +35,7 @@
 }
 /* SEARCH BAR */
 .search_bar{
-    border-bottom: 2px solid blue;
+    border-bottom: 2px solid var(--blue);
     text-align: end;
     width: 70%;
 }
