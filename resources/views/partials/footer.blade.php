@@ -26,10 +26,10 @@
     {{-- FOOTER MAIN --}}
     <div class="footer_main">
         {{-- Footer link section --}}
-        <div>
+        <div class="footer_main_sx">
             <div class="footer_main_link">
                 <div>
-                    <h5>DC COMICS</h5>
+                    <h6>DC COMICS</h6>
                     <ul>
                         <li><a href="">Characters</a></li>
                         <li><a href="">Comics</a></li>
@@ -41,14 +41,14 @@
                         <li><a href="">Movies</a></li>
                         <li><a href="">Movies</a></li>
                     </ul>
-                    <h5>SHOP</h5>
+                    <h6>SHOP</h6>
                     <ul>
                         <li><a href="">Shop DC</a></li>
                         <li><a href="">Shop DC Collectibles</a></li>
                     </ul>
                 </div>
                 <div class="">
-                    <h5>DC</h5>
+                    <h6>DC</h6>
                     <ul>
                         <li><a href="">Terms of news</a></li>
                         <li><a href="">Privacy police (New)</a></li>
@@ -64,7 +64,7 @@
                     </ul>
                 </div>
                 <div class="">
-                    <h5>SITES</h5>
+                    <h6>SITES</h6>
                     <ul>
                         <li><a href="">DC</a></li>
                         <li><a href="">MAD Magazine</a></li>
@@ -75,12 +75,13 @@
                 </div>
             </div>
             <div class="footer_main_rights">
-                <p>All Sites Content TM and c 2020 DC Entarteinement, unless otherwise <a href="">noted here</a>. All right reserved. <a href="">Cookies Settings</a></p>
+                <p>All Sites Content TM and c 2020 DC Entarteinement, unless otherwise <a href="">noted here</a>. All right reserved.<br><a href="">Cookies Settings</a></p>
             </div>
         </div>
-        
-
         {{-- Foter 2 background section --}}
+        <div class="footer_2_bg">
+
+        </div>
     </div>
 
     {{-- FOOTER BOTTOM --}}
