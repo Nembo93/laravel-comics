@@ -1,3 +1,4 @@
+/* FOOTER TOP */
 .footer_top{
     background-color: blue;
     padding: 20px 200px;
@@ -14,4 +15,28 @@
 .footer_top_link_card h6{
     display: inline-block;
     margin-left: 10px;
+}
+
+/* FOOTER MAIN */
+/* Footer main link */
+.footer_main{
+    background-image: url("../img/footer-bg.jpg");
+    color: white;
+}
+.footer_main ul{
+    padding: 0;
+}
+.footer_main li{
+    list-style: none;
+}
+.footer_main_link a{
+    text-decoration: none;
+    color: gainsboro;
+}
+.footer_main_link{
+    display: flex;
+}
+/* Footer rights */
+.footer_main_rights a{
+    text-decoration: none;
 }
