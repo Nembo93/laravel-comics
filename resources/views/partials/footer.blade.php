@@ -12,11 +12,11 @@
                 <img src="{{ Vite::asset('resources/img/buy-comics-merchandise.png') }}" alt="">
                 <h6>DC MERCHANDISES</h6>
             </a>
-            <a href="">
+            <a href="" class="footer_top_link_card">
                 <img src="{{ Vite::asset('resources/img/buy-comics-subscriptions.png') }}" alt="">
                 <h6>SUBSCRIPTION</h6>
             </a>
-            <a href="">
+            <a href="" class="footer_top_link_card">
                 <img src="{{ Vite::asset('resources/img/buy-comics-shop-locator.png') }}" alt="">
                 <h6>COMIC SHOP LOCATOR</h6>
             </a>
