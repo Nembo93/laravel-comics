@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('homepage_content')
+@section('page_content')
 <section class="my_bg_color">
     <div class="container comics_page_container">
 
@@ -16,7 +16,8 @@
                         <img src="{{ $item["thumb"] }}" alt="">
                     </div>
                     <div>
-                        <h6>{{ $item["title"] }}</h6>
+                        <h6>{{ $item["series"] }}</h6>
+                        <button class="info_button"><a href="{{route('show', $loop->index)}}">Show details</a></button>
                     </div>
                 </div>
                 @endforeach

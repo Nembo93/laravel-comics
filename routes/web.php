@@ -18,3 +18,10 @@ $comics = config("comics_db");
 
     return view('homepage', compact("comics"));
 });
+
+Route::get('/comic/{index}', function ($index) {
+    $comics = config("comics_db");
+    $comic = $comics[$index];
+    
+        return view('show', compact("comic"));
+    })->name('show');
